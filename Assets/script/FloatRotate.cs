@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CoinManager : MonoBehaviour
+public class FloatRotate : MonoBehaviour
 {
     public float degreesPerSecond = 15f;
     public float amplitude = 0.25f; // how high the item floats
